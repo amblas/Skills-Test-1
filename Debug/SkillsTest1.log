@@ -1,0 +1,17 @@
+﻿Build started 3/13/2019 4:36:41 PM.
+     1>Project "E:\SkillsTest1\SkillsTest1\SkillsTest1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\SkillsTest1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         SkillsTest1.vcxproj -> E:\SkillsTest1\Debug\SkillsTest1.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\SkillsTest1.unsuccessfulbuild".
+         Touching "Debug\SkillsTest1.lastbuildstate".
+     1>Done Building Project "E:\SkillsTest1\SkillsTest1\SkillsTest1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.11
